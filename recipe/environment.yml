@@ -1,4 +1,4 @@
-name: notebook
+name: jupyter_math
 channels:
   - conda-forge
   - defaults
